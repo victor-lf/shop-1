@@ -17,10 +17,8 @@ header img {
   margin-left: auto;
 }
 
-audio { 
-  display: block; 
-  width: 200px;
-}
+audio { display: block; }
+
 
 .jumbotron {
   padding-top: 3rem;
