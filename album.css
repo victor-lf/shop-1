@@ -17,7 +17,12 @@ header img {
   margin-left: auto;
 }
 
-audio { display: block; }
+audio { 
+  display: block;
+  width: 90px;
+}
+
+
 
 
 .jumbotron {
